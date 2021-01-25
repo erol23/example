@@ -1,0 +1,58 @@
+*{
+    background-color: black;
+}
+.content{
+    text-align: center;
+    color: white;
+}
+
+#list{
+    color: white;
+}
+
+span{
+    color: red;
+}
+#body {
+    width: 80%;
+    margin: auto;
+}
+
+#footer a {
+    text-decoration: none;
+    color: red;
+}
+
+img {
+    width: 350px;
+    height: 280.31px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+#header .content{
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+
+.image {
+    text-align: center;
+    color: white;
+}
+
+li {
+    font-size: 23px;
+}
+#main .content{
+    font-size: 23px;
+}
+
+.listnm {
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+#footer {
+    font-size: 23px;
+}
